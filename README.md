@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Chronic-pixel
-- 👀 I’m interested in Games and new technologies.
-- 🌱 I’m currently learning web develop and backend!
-- 💞️ I’m looking to collaborate on exciting projects.
-- ⚡ Fun fact: I love chocolate!
+👾 Hey there! I'm @Chronic-pixel
 
-<!---
-Chronic-pixel/Chronic-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    🎮 Passionate about Games & Tech — always exploring the latest innovations.
+    💻 Currently diving into Web & Backend Development — building cool things one line of code at a time.
+    🌱 Always learning — constantly improving and expanding my skill set.
+    🤝 Let’s Collaborate — open to exciting and impactful projects!
+    🍫 Fun Fact: Chocolate is my fuel! 🍫
