@@ -1,4 +1,4 @@
-👾 Hey there! I'm @Chronic-pixel
+<h1>👾 Hey there! I'm @Chronic-pixel</h1>
 
     🎮 Passionate about Games & Tech — always exploring the latest innovations.
     💻 Currently diving into Web & Backend Development — building cool things one line of code at a time.
